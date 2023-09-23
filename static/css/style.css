@@ -1,0 +1,24 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+    background-color:#757670;
+}
+
+.card{
+    margin-right:-50px !important;
+}
+
+.mt-50{
+    margin-top: 50px;
+}
+
+@media (max-width:800px) {
+    .container{
+    height: 90% !important;
+    width:85% !important;
+    }
+}
